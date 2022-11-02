@@ -1,11 +1,7 @@
 #change log 
-#ver [0.0.1] 2/11/2022
-#Added
-1. Ajouter personnage du premier niveau 
-2. faire les animation 
-3. faire les movement
-4. faire la camera a la troisième persone 
-#Removed 
-nothing
-#Fixed 
-nothing
+##ver [0.0.1] 2/11/2022
+###Added
+1. personnage du premier niveau 
+2. les animation 
+3. les movement
+4. la camera a la troisième persone 
