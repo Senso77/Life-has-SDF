@@ -1,0 +1,5 @@
+#change log
+1. Ajouter personnage du premier niveau 
+2. faire les animation 
+3. faire les movement
+4. faire la camera a la troisième persone 
