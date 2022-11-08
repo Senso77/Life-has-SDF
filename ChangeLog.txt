@@ -1,3 +1,12 @@
+#change log
+##ver [0.0.4] 8/11/2022
+###Added
+1. pathfinding du policer + l'animation de marche 
+2. Map du niveaux 2 finis 
+3. rajout des lumière du niveau 1
+
+================================================================================================================================================================
+
 #change log 
 ##ver [0.0.3] 7/11/2022
 ###Added 
