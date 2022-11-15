@@ -1,5 +1,5 @@
 #change log
-##ver [0.0.7] 
+##ver [0.0.7] 15/11/2022
 ###Added 
 1. [Niveau 1]: configuration terminer : (bar de detection, bar de fatigue, Timer) 
 2. [Niveau 2]: configuration terminer : (Barre de chaleur , Timer , Trigger zone)
