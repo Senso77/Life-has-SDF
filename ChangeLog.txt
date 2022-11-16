@@ -1,6 +1,17 @@
 #change log
 ##ver [0.0.7] 15/11/2022
 ###Added 
+1. [Niveau 2]: Ajout du GameOver + restart + quitter.
+2. [Niveau 2]: Ajout de la téléportation de la zone chaleur après 20 secondes.
+3. [Niveau 2]: Ajout changement de couleur sur la barre de vie en fonction de la vie.
+4. [Niveau 2]: Ajout timer de la zone de chaleur.
+
+
+=============================================================================================================================================================
+
+#change log
+##ver [0.0.7] 15/11/2022
+###Added 
 1. [Niveau 1]: configuration terminer : (bar de detection, bar de fatigue, Timer) 
 2. [Niveau 2]: configuration terminer : (Barre de chaleur , Timer , Trigger zone)
 3. [Niveau 1 && 2] lumière ajouter. 
